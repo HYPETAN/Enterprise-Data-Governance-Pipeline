@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# IDE settings (VS Code)
+.vscode/
