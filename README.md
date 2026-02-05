@@ -43,4 +43,5 @@ It simulates a real-world ingestion scenario where "dirty" external data is vali
 
 ## Demo Output
 * Demo Output when run locally:
+  
 ![Project Demo Output](assets/demo-output.png)
